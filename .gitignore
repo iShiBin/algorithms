@@ -25,3 +25,9 @@ hs_err_pid*
 # iCloud files
 *.icloud
 
+# jupyter checkpoints
+.ipynb_checkpoints/
+./*/.ipynb_checkpoints/
+
+# IntelliJ
+.idea
